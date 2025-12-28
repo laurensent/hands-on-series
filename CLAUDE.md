@@ -7,9 +7,11 @@
 - Types: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert
 - Keep commit message to ONE line in most cases, only use multi-line for large feature implementations
 - Keep message concise but meaningful (e.g., "add hands-on projects roadmap" not "update TODO")
+- Use imperative mood, not third person (e.g., "add" not "adds")
 - Skip trivial changes in message (e.g., don't mention gitignore updates)
 - Do NOT use emojis in commit messages
 - Do NOT add Claude Code attribution or Co-Authored-By lines
+- Only squash/amend when user explicitly requests it
 - When user says "squash", default to amending the last commit; user will specify if more commits needed
 
 ## GUIDE.md Documentation Rules
