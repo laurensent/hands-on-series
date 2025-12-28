@@ -1,10 +1,4 @@
-# Hands-on Series TODO
-
-> **Recommended Order**: ThreadPool -> Pool -> Cache -> RateLimiter -> Spring -> RPC -> MQ -> KV
->
-> From simple to complex. Later projects can reuse earlier components (e.g., RPC uses thread pool, MQ uses storage design).
-
----
+# Hands-on Series
 
 ## Hands-on ThreadPool
 
