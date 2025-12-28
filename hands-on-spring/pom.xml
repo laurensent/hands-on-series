@@ -13,8 +13,8 @@
     <artifactId>hands-on-spring</artifactId>
     <packaging>jar</packaging>
 
-    <name>Hands On Spring</name>
-    <description>Spring Framework hands-on learning module</description>
+    <name>Hands-on Spring</name>
+    <description>Hands-on Spring</description>
 
     <dependencies>
         <!-- Add Spring dependencies here as needed -->
