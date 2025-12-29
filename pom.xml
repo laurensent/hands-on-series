@@ -13,7 +13,14 @@
     <description>Hands-on Series</description>
 
     <modules>
+        <module>hands-on-threadpool</module>
+        <module>hands-on-pool</module>
+        <module>hands-on-cache</module>
+        <module>hands-on-ratelimiter</module>
         <module>hands-on-spring</module>
+        <module>hands-on-rpc</module>
+        <module>hands-on-mq</module>
+        <module>hands-on-kv</module>
     </modules>
 
     <properties>
